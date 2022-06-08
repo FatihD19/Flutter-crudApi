@@ -1,4 +1,4 @@
-# PHP-REST-API
-PHP REST API FILE for Flutter CRUD Project
+# Flutter-CRUD-API
+Flutter CRUD Project for PHP REST API
 
-Flutter CRUD phpMyAdmin Project : (https://github.com/FatihD19/Papb-Intero-Projek/tree/main/phpApi-server)
+PHP API phpMyAdmin Project : (https://github.com/FatihD19/Papb-Intero-Projek/tree/main/phpApi-server)
